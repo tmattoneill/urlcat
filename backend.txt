@@ -1,0 +1,13 @@
+backend
+	- process url
+		- meta
+		- text
+		- headers
+		- ntlk
+		- links
+	- url can be in directory
+		- or passed in via URL (GET)
+	- generate screenshot
+	- return JSON object
+	- get
+front end
